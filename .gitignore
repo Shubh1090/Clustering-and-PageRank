@@ -1,0 +1,7 @@
+a4env/
+**pycache**/
+.ipynb_checkpoints/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
